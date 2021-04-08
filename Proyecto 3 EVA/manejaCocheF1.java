@@ -10,7 +10,7 @@ public class manejaCocheF1 {
 		cocheF1Lluvia carreraPortugal;
 		
 		carreraItalia= new cocheF1("McLaren MCL35M", "naranja", 746, 1.20, 5);
-		carreraPortugal = new cocheF1Lluvia("McLaren MCL35M", "Naranja", 768, 1.0, 3, false);
+		carreraPortugal = new cocheF1Lluvia("McLaren MCL35M", "Naranja", 768, 1.0, 3, true);
 		
 		System.out.println("Para el próximo gran premio de Italia utilizaremos el modelo "+ carreraItalia.getNombre() + " de color " + carreraItalia.getColor());
 		System.out.println("Los reglajes serán:");

@@ -3,7 +3,8 @@ package codigo;
 public class cocheF1Lluvia extends cocheF1 {
 	
 //Cuando en la carrera va a haber lluvia, muchos más factores entran en juego, 
-//el tipo de neumáticos, si se va a activar o no el drs...	
+//como por ejemplo, el tipo de neumáticos dependiendo de si es lluvia extrema o
+//lluvia más leve
 	private boolean lluviaExtrema;
 	
 	//Constructor

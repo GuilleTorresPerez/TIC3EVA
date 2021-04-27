@@ -1,4 +1,8 @@
-Buenas antonio, los contenidos de esta evaluación los he dividido en 3 partes, en primer lugar están los Ejercicios de clase en el que se encuentran los ejercicios de java que hemos hecho durante la 3 evaluación.
-Por otro lado está el Proyecto 3 EVA en el que está el trabajo voluntario que te envié en su día de un programa completo de java que simulaba el software de un equipo de Formula 1. El otro archivo que se llama "java desde 0"
-son unos apuntes que me hice porque al principio no conseguía entender el funcionamiento de la programación orientada a objetos y que quizás también pueden servir como trabajo extra. Quizás cuando leas esto aún no hay subida 
-una carpeta que se llame web, y es que la página web que creé en su día la tengo guardada en el ordenador del colegio y cuando llegue a clase la subiré. Si la carpeta ya está subida entonces aquí no ha ocurrido nadaaaa...
+Buenas antonio, los contenidos de esta evaluación los he dividido en 3 partes, en primer lugar están los 
+Ejercicios de clase en el que se encuentran los ejercicios de java que hemos hecho durante la 3 evaluación.
+Por otro lado está el Proyecto 3 EVA en el que está el trabajo voluntario que te envié en su día de un programa 
+completo de java que simulaba el software de un equipo de Formula 1. El otro archivo que se llama "java desde 0"
+son unos apuntes que me hice porque al principio no conseguía entender el funcionamiento de la programación orientada a 
+objetos y que quizás también pueden servir como trabajo extra. Quizás cuando leas esto aún no hay subida 
+una carpeta que se llame web, y es que la página web que creé en su día la tengo guardada en el ordenador del colegio y 
+cuando llegue a clase la subiré. Si la carpeta ya está subida entonces aquí no ha ocurrido nadaaaa...
